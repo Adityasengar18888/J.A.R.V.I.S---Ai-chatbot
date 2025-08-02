@@ -3,19 +3,15 @@ J.A.R.V.I.S (Just A Rather Very Intelligent System) is a sleek, futuristic chatb
 
 🌐 Live Preview
 (If hosted, you can insert the link here)
-🔗 Live Demo
+🔗 [Live Demo](https://sprightly-alpaca-f59df3.netlify.app/)
 
 🚀 Features
+
 📬 Interactive real-time messaging
-
 📁 File/image upload & preview
-
 🎭 Emoji picker with emoji-mart
-
 🤖 Gemini 2.0 API integration for AI-powered responses
-
 🌌 Glassmorphism UI with animated video background
-
 📱 Responsive, clean, and minimal design
 
 📁 Project Structure
@@ -30,9 +26,7 @@ Edit
 ├── bg.mp4             # Video background
 🧠 Powered By
 Google Gemini 2.0 Flash API
-
 Emoji Mart (Emoji Picker)
-
 Google Fonts & Material Symbols
 
 📦 Installation
@@ -41,15 +35,13 @@ To run locally:
 Clone this repository:
 
 bash
-Copy
-Edit
+
 git clone https://github.com/your-username/jarvis-chatbot.git
 cd jarvis-chatbot
 Replace the placeholder API key in script.js:
 
 js
-Copy
-Edit
+
 const API_KEY = "YOUR_API_KEY_HERE";
 Open index.html in any modern browser.
 
@@ -61,8 +53,7 @@ You need an API Key from Google to access Gemini 2.0 Flash.
 Replace the API_KEY value in script.js:
 
 js
-Copy
-Edit
+
 const API_KEY = "your_api_key_here";
 🎨 UI Preview
 Chatbot UI	File Upload	Emoji Picker
